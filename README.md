@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![Hier könnte ein Counter zu sehen sein aber ...](https://count.getloli.com/@somecatcodecounter?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **SomeCatCode/SomeCatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
